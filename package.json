@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-mdx",
+  "version": "1.0.0",
+  "description": "Next JS içerisinde 'mdx' uzantılı dosyaların nasıl kullanıldığına ait örnek yapılmak için oluşturulan bir repodur.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faruk-gkc/nextjs-mdx.git"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^1.5.1",
+    "@mdx-js/react": "^1.6.18",
+    "@next/mdx": "^9.1.1",
+    "next": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faruk-gkc/nextjs-mdx/issues"
+  },
+  "homepage": "https://github.com/faruk-gkc/nextjs-mdx#readme"
+}
